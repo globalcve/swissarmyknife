@@ -40,6 +40,8 @@ sudo ./SWISS_ARMY_KNIFE.sh
 - Generates a clean, timestamped report in terminal  
 - Color-coded sections for readability  
 - Ideal for copy-paste into incident reports or audit logs  
+![Preview of SWISS_ARMY_KNIFE.sh submenu](./swiss_army_knife.png)
+
 
 ---
 
