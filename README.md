@@ -28,7 +28,7 @@ A modular, zero-dependency Bash toolkit for Linux system diagnostics, security a
 
 ```bash
 chmod +x SWISS_ARMY_KNIFE.sh
-sudo ./SWISS_ARMY_KNIFE.sh 
+sudo ./SWISS_ARMY_KNIFE.sh```
 
 
 
