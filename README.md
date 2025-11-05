@@ -1,6 +1,6 @@
 # 🛡️ SWISS_ARMY_KNIFE.sh
 
-A modular, zero-dependency Bash toolkit for Linux system diagnostics, security auditing, and rapid incident response — built for sysadmins, security engineers, and DevSecOps teams.
+A modular, Bash toolkit for Linux system diagnostics, security auditing, and rapid incident response — built for sysadmins, security engineers, and DevSecOps teams.
 
 > Part of the [GlobalCVE](https://github.com/globalcve) initiative to make security tooling accessible, reproducible, and open-source.
 
@@ -20,7 +20,7 @@ A modular, zero-dependency Bash toolkit for Linux system diagnostics, security a
 
 - ✅ Bash 4+
 - ✅ Runs on Ubuntu/Debian (tested on 20.04+)
-- ❌ No external dependencies — pure shell
+- Dependencies: whiptail, bash, coreutils, less - You will be prompted if other dependencies are needed for specific tasks.
 
 ---
 
