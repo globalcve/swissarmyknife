@@ -34,8 +34,7 @@ sudo ./SWISS_ARMY_KNIFE.sh
 
 ### 📦 Part 3: Output and Benefits
 
-```markdown
----
+
 
 ## 📋 Output
 
@@ -50,14 +49,14 @@ sudo ./SWISS_ARMY_KNIFE.sh
 - 🕵️‍♂️ Instant visibility into system health and security posture  
 - 🧪 Great for triage, forensic snapshots, or post-breach analysis  
 - 🧰 Perfect for air-gapped environments or minimal containers  
-- 🧼 Helps harden systems with actionable insights  ---
+- 🧼 Helps harden systems with actionable insights  
 
 ## 🛠️ Roadmap
 
 - [ ] Optional output to Markdown or HTML  
 - [ ] Log file export  
 - [ ] Integration with GlobalCVE CLI  
-- [ ] Modular plugin system (e.g., `--network`, `--audit`, `--light`)  ---
+- [ ] Modular plugin system (e.g., `--network`, `--audit`, `--light`)  
 
 ## 🤝 Contributing
 
@@ -67,7 +66,7 @@ Pull requests welcome! Please follow the [GlobalCVE CONTRIBUTING.md](https://git
 
 ## 📜 License
 
-MIT — free to use, modify, and distribute.---
+MIT — free to use, modify, and distribute.
 
 ## 🙌 Credits
 
@@ -88,6 +87,7 @@ Crafted with ❤️ by the [GlobalCVE](https://github.com/globalcve) community.
 [+] SUID Files: /usr/bin/passwd, /usr/bin/sudo
 [+] World-Writable Files: /tmp/test.log
 [+] SSH Config: PermitRootLogin no, PasswordAuthentication no
+
 
 
 
