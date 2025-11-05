@@ -33,8 +33,6 @@ sudo ./SWISS_ARMY_KNIFE.sh
 
 
 
-### 📦 Part 3: Output and Benefits
-
 
 
 ## 📋 Output
