@@ -28,9 +28,9 @@ A modular, zero-dependency Bash toolkit for Linux system diagnostics, security a
 
 ```bash
 chmod +x SWISS_ARMY_KNIFE.sh
-sudo ./SWISS_ARMY_KNIFE.sh
+sudo ./SWISS_ARMY_KNIFE.sh 
 
----
+
 
 ### 📦 Part 3: Output and Benefits
 
@@ -86,7 +86,7 @@ Crafted with ❤️ by the [GlobalCVE](https://github.com/globalcve) community.
 [+] Failed Login Attempts: 5 (last 24h)
 [+] SUID Files: /usr/bin/passwd, /usr/bin/sudo
 [+] World-Writable Files: /tmp/test.log
-[+] SSH Config: PermitRootLogin no, PasswordAuthentication no
+[+] SSH Config: PermitRootLogin no, PasswordAuthentication no 
 
 
 
