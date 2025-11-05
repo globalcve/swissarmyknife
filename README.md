@@ -36,7 +36,6 @@ sudo ./SWISS_ARMY_KNIFE.sh
 
 ### 🧩 Part 3: Output + Benefits
 
-```markdown
 ---
 
 ## 📋 Output
