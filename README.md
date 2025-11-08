@@ -1,4 +1,7 @@
-# 🛡️ SWISS_ARMY_KNIFE.sh
+<p align="center">
+  <img src="https://github.com/globalcve/swissarmyknife/blob/main/SwissArmyKnife.png" alt="SwissArmyKnife Banner" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Toolkit-SwissArmyKnife-blue" />
