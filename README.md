@@ -1,4 +1,13 @@
 # 🛡️ SWISS_ARMY_KNIFE.sh
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toolkit-SwissArmyKnife-blue" />
+  <img src="https://img.shields.io/badge/Utilities-Network%2FSystem-lightgrey" />
+  <img src="https://img.shields.io/github/license/globalcve/swissarmyknife" />
+  <img src="https://img.shields.io/badge/Branch-Stable-green?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/globalcve/swissarmyknife" />
+</p>
+
 
 A modular, Bash toolkit for Linux system diagnostics, security auditing, and rapid incident response — built for sysadmins, security engineers, and DevSecOps teams.
 
